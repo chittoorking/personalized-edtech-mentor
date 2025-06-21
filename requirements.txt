@@ -1,0 +1,37 @@
+# Core LangChain components
+langchain-core==0.3.65
+langchain-community==0.3.25
+langchain-openai==0.3.23
+langchain-text-splitters==0.3.8
+langchain-huggingface==0.3.0
+
+# LLM and Embeddings
+openai==1.86.0
+sentence-transformers==2.6.1  # Compatible with huggingface-hub>=0.30.2
+huggingface-hub==0.30.2
+
+# Vector Store
+chromadb==0.4.24  # Use ChromaDB for persistent vector storage
+
+# PDF Processing
+unstructured==0.17.2
+unstructured-client==0.36.0
+unstructured-inference==1.0.5
+unstructured.pytesseract==0.3.15
+python-magic==0.4.27
+pdf2image==1.17.0
+pdfminer.six==20250506
+pypdf==5.6.0
+pikepdf==9.8.1
+
+# Web Application
+streamlit==1.45.1
+
+# Utilities
+python-dotenv==1.1.0
+typing-extensions>=4.9.0
+
+# Additional dependencies
+numpy>=1.26.0,<2.0.0  # Avoid NumPy 2.x incompatibility
+torch==2.2.0
+transformers==4.41.2
