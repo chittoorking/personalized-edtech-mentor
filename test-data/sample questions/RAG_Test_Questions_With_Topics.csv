@@ -1,0 +1,51 @@
+Question Number,Topic,Question
+1,Introduction to Probability,What are the three axioms of probability?
+2,Introduction to Probability,Define sample space with an example.
+3,Introduction to Probability,What is the difference between a discrete and a continuous sample space?
+4,Introduction to Probability,What is the complement of an event and how is it represented?
+5,Introduction to Probability,State and explain De Morgan’s Laws using set theory.
+6,Introduction to Probability,What does it mean for a set of events to form a partition of a sample space?
+7,Introduction to Probability,How is a probability law defined for a uniform discrete sample space?
+8,Introduction to Probability,How is a continuous probability model constructed for a wheel of fortune?
+9,Introduction to Probability,What is the significance of assigning probability 0 to single outcomes in continuous models?
+10,Introduction to Probability,Explain how probabilities are visually interpreted using Venn diagrams.
+11,Introduction to Probability,Define conditional probability with a real-world example.
+12,Introduction to Probability,What is the multiplication rule for conditional probabilities?
+13,Introduction to Probability,How can you calculate the probability that none of three drawn cards is a heart?
+14,Introduction to Probability,How do you compute the probability that at least one team is successful if two teams work independently?
+15,Introduction to Probability,Explain how a sequential probability tree is used for computing compound probabilities.
+16,Introduction to Probability,How do you compute false positive and false negative rates in a radar detection scenario?
+17,Introduction to Probability,What does it mean when P(A|B) > P(A)?
+18,Introduction to Probability,How does conditional probability relate to Bayesian reasoning?
+19,Introduction to Probability,How do you compute the probability of Romeo and Juliet meeting using 2D continuous probability?
+20,Introduction to Probability,"If P(A) = 0.6, P(B) = 0.5, and P(A ∩ B) = 0.3, what is P(A | B)?"
+21,Introduction to Probability,Explain the concept of independence using conditional probabilities.
+22,Introduction to Probability,What is the difference between mutually exclusive and independent events?
+23,Introduction to Probability,"How does Bayes’ Theorem relate to diagnostic testing (e.g., medical test scenario)?"
+24,Introduction to Probability,"Given a tree diagram, how do you calculate the total probability of an event?"
+25,Introduction to Probability,How is the law of total probability derived and applied?
+26,Linear Regression,What is the difference between a dependent and independent variable in linear regression?
+27,Linear Regression,Why do we prefer linear models over non-linear ones in some regression problems?
+28,Linear Regression,Define the term 'true regression line' in the context of a linear model.
+29,Linear Regression,What is the probabilistic form of the simple linear regression equation?
+30,Linear Regression,How do you interpret the slope coefficient β₁ in a simple linear regression model?
+31,Linear Regression,What assumptions are made about the error term ε in the linear regression model?
+32,Linear Regression,How does the expected value of Y relate to X in a linear regression model?
+33,Linear Regression,What is the difference between predicted values and residuals?
+34,Linear Regression,How is the residual sum of squares (SSE) calculated?
+35,Linear Regression,What does R² (coefficient of determination) represent in a regression model?
+36,Linear Regression,What are the assumptions that must be checked before trusting a linear regression model?
+37,Linear Regression,How can categorical variables be used in linear regression?
+38,Linear Regression,What is dummy variable coding and why is it used?
+39,Linear Regression,What is multicollinearity and how can it occur with categorical variables?
+40,Linear Regression,What’s the difference between fixed effects and random effects in regression?
+41,Linear Regression,What is the null hypothesis in the omnibus F-test?
+42,Linear Regression,How do you compute the F-statistic for overall model significance?
+43,Linear Regression,What does a significant F-test tell us about the regression model?
+44,Linear Regression,How is the ANOVA formulation used to evaluate regression models?
+45,Linear Regression,How can you test the statistical significance of individual regression coefficients?
+46,Linear Regression,What is the formula for the t-statistic used in hypothesis testing of β coefficients?
+47,Linear Regression,What does it mean if the confidence interval for βᵢ includes zero?
+48,Linear Regression,How can you compare a reduced model with a full model using the F-test?
+49,Linear Regression,How are degrees of freedom calculated in regression-based ANOVA?
+50,Linear Regression,What role does SST (total sum of squares) play in model evaluation?
